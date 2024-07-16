@@ -20,29 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação do E-book Programação e Inteligência Artificial ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto eu dei inicio a um esboço de um e-book que tem o objetivo de introduzir o leitor no mundo da tecnologia,
+ explorando a programação unida a inteligência artificial
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini IA 
+Leonardo IA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei o conteudo principal usando a IA do Google Gemini.
+a imagem de capa usei um prompt para criação com Leonardo IA
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um rascunho de um e-book focado em tecnologia e inteligência artificial, desenvolvido pela própria inteligência artificial.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
